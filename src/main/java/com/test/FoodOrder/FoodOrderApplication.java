@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FoodOrderApplication {
 
 	public static void main(String[] args) {
+		//start foodn service
 		SpringApplication.run(FoodOrderApplication.class, args);
 	}
 
